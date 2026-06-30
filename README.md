@@ -34,6 +34,7 @@ This project demonstrates authentication, authorization, password hashing, and r
 
 ## 📁 Project Structure
 
+```text
 Authentication-System/
 │
 ├── config/
@@ -56,6 +57,8 @@ Authentication-System/
 ├── index.js
 ├── package.json
 └── README.md
+
+```
 
 ---
 
