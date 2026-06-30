@@ -75,7 +75,7 @@ Main route path: /api/users
 | Method | Endpoint | Description   |
 | ------ | -------- | ------------- |
 | POST   | /signup  | Register user |
-| POST   | /login   | Login user    |
+| POST   | /Login   | Login user    |
 
 ---
 
